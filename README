@@ -1,6 +1,6 @@
-# React Native Mobile App
+#React Native Mobile App
 
-### [Quick Start](https://reactnative.dev/docs/environment-setup)
+###[Quick Start](https://reactnative.dev/docs/environment-setup)
 
 ```
 npm install -g expo-cli
@@ -10,11 +10,11 @@ npm start         # you can also use: expo start
 npm run ios       # npm run android
 ```
 
-### UI
+###UI
 
 - **[UI Library React Native Elements](https://reactnativeelements.com/docs/installation)**
 
-### Frontend Screens
+###Frontend Screens
 
 https://www.youtube.com/watch?v=UbixZZDjrdU
 
